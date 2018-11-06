@@ -1,0 +1,2 @@
++ mo file main chay file UML.jar de chay chuong trinh .
++ bam CTRL+O de dan duong dan den folder can phan tich ma nguon
